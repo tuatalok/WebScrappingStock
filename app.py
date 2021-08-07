@@ -2,6 +2,7 @@ from os import name
 import streamlit as st
 import pandas as pd
 from bs4 import BeautifulSoup
+import xlsxwriter
 import requests
 import time
 import base64
